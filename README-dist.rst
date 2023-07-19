@@ -1,29 +1,3 @@
-Metadata-Version: 2.1
-Name: pathspec
-Version: 0.11.1
-Summary: Utility library for gitignore style pattern matching of file paths.
-Author-email: "Caleb P. Burns" <cpburnz@gmail.com>
-Requires-Python: >=3.7
-Description-Content-Type: text/x-rst
-Classifier: Development Status :: 4 - Beta
-Classifier: Intended Audience :: Developers
-Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
-Classifier: Operating System :: OS Independent
-Classifier: Programming Language :: Python
-Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3.7
-Classifier: Programming Language :: Python :: 3.8
-Classifier: Programming Language :: Python :: 3.9
-Classifier: Programming Language :: Python :: 3.10
-Classifier: Programming Language :: Python :: 3.11
-Classifier: Programming Language :: Python :: Implementation :: CPython
-Classifier: Programming Language :: Python :: Implementation :: PyPy
-Classifier: Topic :: Software Development :: Libraries :: Python Modules
-Classifier: Topic :: Utilities
-Project-URL: Documentation, https://python-path-specification.readthedocs.io/en/latest/index.html
-Project-URL: Issue Tracker, https://github.com/cpburnz/python-pathspec/issues
-Project-URL: Source Code, https://github.com/cpburnz/python-pathspec
-
 
 PathSpec
 ========
@@ -579,4 +553,3 @@ Improvements:
 ------------------
 
 - Initial release.
-
